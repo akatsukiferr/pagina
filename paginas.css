@@ -89,7 +89,7 @@ transform: scale(1.1);
         scroll-behavior: smooth;
     }
     
-    .articlee section img {
+    .articlee section video {
         width: 300px;
         height: auto;
     }
